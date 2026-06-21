@@ -1,0 +1,7 @@
+product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm
+p_001,housewares,18,120,2,500,20,10,15
+p_002,electronics,22,210,3,350,15,8,12
+p_003,furniture,30,450,5,8000,90,45,60
+p_004,computers,28,380,4,2500,40,12,35
+p_005,,15,90,1,200,12,6,10
+

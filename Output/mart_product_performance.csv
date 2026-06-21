@@ -1,0 +1,6 @@
+product_category,product_id,total_units_sold,total_revenue,average_price
+computers,p_004,1,960.0,900.0
+furniture,p_003,1,485.0,450.0
+housewares,p_001,2,277.0,120.0
+electronics,p_002,2,184.0,80.0
+unknown,p_005,1,75.0,65.0

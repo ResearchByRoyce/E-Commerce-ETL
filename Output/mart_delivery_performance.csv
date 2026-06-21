@@ -1,0 +1,4 @@
+delivery_month,avg_delivery_days,delayed_orders,delay_rate_percent
+2024-01,6.5,1,50.0
+2024-02,3.0,0,0.0
+2024-03,6.0,1,50.0

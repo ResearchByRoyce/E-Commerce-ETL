@@ -1,0 +1,7 @@
+review_id,order_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
+r_001,o_001,5,Great,Fast delivery,2024-01-11 00:00:00,2024-01-12 09:00:00
+r_002,o_002,3,Late,Arrived after estimate,2024-01-29 00:00:00,2024-01-30 11:00:00
+r_003,o_003,5,Good,Everything was fine,2024-02-07 00:00:00,2024-02-07 14:00:00
+r_004,o_005,4,Okay,Product is good,2024-03-10 00:00:00,2024-03-11 08:00:00
+r_005,o_006,5,Excellent,Very smooth order,2024-03-24 00:00:00,2024-03-24 18:30:00
+

@@ -1,0 +1,5 @@
+customer_id,first_order_date,last_order_date,total_orders,total_spent,customer_segment
+c_004,2024-03-02,2024-03-02,1,960.0,growing
+c_002,2024-01-20,2024-01-20,1,485.0,growing
+c_001,2024-01-05,2024-02-03,2,369.0,growing
+c_005,2024-03-18,2024-03-18,1,167.0,new
